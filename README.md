@@ -1,1 +1,1 @@
-# So This is A prior build of SQLi v8.5 that was decompiled using JustDecompile, now being rewritten into Go from C# libraries
+# SQLi Dumper/Injection tool is a automated tool built in C#, translated into Go. Many Injections can be seen through for example, Union, Oracle, Postgre, MsSQL and MySQL Error
