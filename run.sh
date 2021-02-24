@@ -1,2 +1,2 @@
-go build main.go -o bin/sqli
+go build -o bin/sqli main.go 
 ./bin/sqli
